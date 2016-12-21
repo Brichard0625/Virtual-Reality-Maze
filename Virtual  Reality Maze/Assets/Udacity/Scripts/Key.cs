@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Key : MonoBehaviour 
 {
-    //Create a reference to the KeyPoofPrefab, keyCollected, AudoClip.*keyCollected should be static variable*
+    //Create a reference to the KeyPoofPrefab, keyCollected, AudioClip.*keyCollected should be static variable*
 	public GameObject keyPoof;
 	public AudioClip clip;
 	public static bool keyCollected;
