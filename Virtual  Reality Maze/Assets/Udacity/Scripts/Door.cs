@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Door : MonoBehaviour 
 {
-    // Create a reference for a locked door and AudioCli 
+    // Create a reference for a locked door and AudioClip
 	public bool locked;
 	public AudioClip clip;
 
